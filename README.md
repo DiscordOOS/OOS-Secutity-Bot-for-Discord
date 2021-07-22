@@ -1,4 +1,4 @@
-# Мануал бота для Discord
+Мануал бота для Discord
 
 ## Ссылка приглашения бота - [Нажми на меня](https://discord.com/api/oauth2/authorize?client_id=583233909211267072&permissions=2148392129&scope=bot)
 
